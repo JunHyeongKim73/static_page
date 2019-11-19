@@ -1,4 +1,4 @@
 ---
-title: Small text
+title: Introduction
 ---
-This is an example of a blog post with small amount of text.
+I'm Kim Jun Hyeong. 
